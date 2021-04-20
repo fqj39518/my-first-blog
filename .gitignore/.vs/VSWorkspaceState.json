@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.gitignore\\myvenv\\Lib",
+    "\\.gitignore\\myvenv\\Lib\\site-packages",
+    "\\.gitignore\\myvenv\\Lib\\site-packages\\Django-2.2.20.dist-info",
+    "\\.gitignore\\myvenv\\Lib\\site-packages\\pip",
+    "\\.gitignore\\myvenv\\Lib\\site-packages\\pip-21.0.1.dist-info",
+    "\\.gitignore\\myvenv\\Lib\\site-packages\\pip\\_internal",
+    "\\.gitignore\\myvenv\\Lib\\site-packages\\pip\\__pycache__",
+    "\\.gitignore\\myvenv\\Lib\\site-packages\\pkg_resources",
+    "\\.gitignore\\myvenv\\Lib\\site-packages\\pytz"
+  ],
+  "SelectedNode": "\\.gitignore",
+  "PreviewInSolutionExplorer": false
+}
